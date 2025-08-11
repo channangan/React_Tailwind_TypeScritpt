@@ -14,8 +14,9 @@ export const User = (props: Props) => {
 
   // Summit
   // const handleSummit = (e: React.FocusEvent<HTMLFormElement>) => {
-  // e.preventDefault();
-  //};
+  //   e.preventDefault();
+  //   setPersonBio(e.target.value);
+  // };
 
   return (
     <div>
